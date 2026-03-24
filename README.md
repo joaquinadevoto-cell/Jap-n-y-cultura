@@ -1,29 +1,77 @@
-# Jap-n-y-cultura
-Sitio Web
-# Jap-n-y-cultura
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Jap-n-y-cultura</title>
+</head>
+<body>
+    <!-- ENCABEZADO -->
+    <header>
+        <div id="logo">
+            <h1>Jap-n-y-cultura</h1>
+        </div>
+        <!-- NAVEGACIÓN -->
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Cultura</a></li>
+                <li><a href="#">Gastronomía</a></li>
+                <li><a href="#">Arte</a></li>
+                <li><a href="#">Festividades</a></li>
+                <li><a href="#">Curiosidades</a></li>
+            </ul>
+        </nav>
+    </header>
+    <!-- CONTENIDO PRINCIPAL -->
+    <main>
+        <!-- SECCIÓN -->
+        <section>
+            <h2>Tradición y Modernidad</h2>
+            <article>
+                <p>
+                    Japón es un país insular de Asia oriental donde conviven siglos de tradición 
+                    con una de las sociedades más innovadoras del mundo.
+                </p>
+                <p>
+                    Sus templos, festivales y costumbres ancestrales se integran con ciudades 
+                    de gran desarrollo tecnológico, generando una identidad cultural única.
+                </p>
+                <p>
+                    Cada región presenta expresiones propias en gastronomía, arte, arquitectura 
+                    y celebraciones, convirtiéndolo en un territorio de gran diversidad cultural.
+                </p>
+            </article>
+        </section>
+        <!-- OTRA SECCIÓN -->
+        <section>
+            <h2>Regiones más visitadas</h2>
+            <article>
+                <p>
+                    Cada región japonesa revela una forma distinta de entender el tiempo, 
+                    el espacio y la cultura.
+                </p>
+            </article>
+        </section>
+    </main>
+    <!-- CONTENIDO RELACIONADO -->
+    <aside>
+        <h3>Enlaces útiles</h3>
+        <ul>
+            <li><a href="#">Japan Endless Discovery</a></li>
+            <li><a href="#">Embajada de Japón</a></li>
+            <li><a href="#">Japan Airlines</a></li>
+            <li><a href="#">The Government of Japan</a></li>
+        </ul>
+    </aside>
+    <!-- PIE DE PÁGINA -->
+    <footer>
+        <h3>Contacto</h3>
+        <p>Email: info@japon.com</p>
+        <p>Teléfono: +54 9 11 3443 5541</p>
+        <hr>
+        <p>Política de privacidad | Condiciones de uso | Política de cookies</p>
+        <p>2026 Copyright. Todos los derechos reservados</p>
+    </footer>
+</body>
 
-## Inicio
-Japón es un país insular de Asia oriental donde conviven siglos de tradición con una de las sociedades más innovadoras del mundo. Sus templos, festivales y costumbres ancestrales se integran con ciudades de gran desarrollo tecnológico, generando una identidad cultural única. Cada región presenta expresiones propias en gastronomía, arte, arquitectura y celebraciones, convirtiéndolo en un territorio de gran diversidad cultural.
-
-## Regiones más visitadas
-Cada región japonesa revela una forma distinta de entender el tiempo, el espacio y la cultura.
-
-## Secciones
-- Cultura
-- Gastronomía
-- Arte
-- Festividades
-- Curiosidades
-
-## Contacto
-- Email: info@japon.com
-- Teléfono: +54 9 11 3443 5541
-
-## Enlaces útiles
-- Japan Endless Discovery
-- Embajada de Japón
-- Japan Airlines
-- The Government of Japan
-
-## Información legal
-Política de privacidad | Condiciones de uso | Política de cookies
+</html>
