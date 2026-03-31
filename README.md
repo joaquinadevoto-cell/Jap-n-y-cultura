@@ -8,7 +8,7 @@
     <!-- ENCABEZADO -->
     <header>
         <div id="logo">
-            <img src="https://japonismo.com/wp-content/uploads/2019/03/consejos-primavera-japon-japonismo.jpg" alt="logo japón">
+            <img src="file:///Users/zelaya/Desktop/WEB%20JAPON/JAPON%20FOTO%20IMG-100.jpg" alt="logo japón">
             <h1>Jap-n-y-cultura</h1>
         </div>
         <!-- NAVEGACIÓN -->
