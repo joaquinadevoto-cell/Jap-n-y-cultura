@@ -8,7 +8,7 @@
     <!-- ENCABEZADO -->
     <header>
         <div id="logo">
-            <img src="file:///Users/zelaya/Desktop/WEB%20JAPON/JAPON%20FOTO%20IMG-100.jpg" alt="logo japón">
+            <img src="https://drive.google.com/file/d/1i0FnQo16aPNVoImTBmSz4wcn3D1Nl1OH/view?usp=sharing" alt="logo japón">
             <h1>Jap-n-y-cultura</h1>
         </div>
         <!-- NAVEGACIÓN -->
