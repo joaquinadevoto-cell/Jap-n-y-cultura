@@ -7,8 +7,6 @@
 <body>
     <!-- ENCABEZADO -->
     <header>
-        <div id="logo">
-            <img src="https://www.advantour.com/img/japan/images/index.jpg" alt="logo japón">
             <h1>Jap-n-y-cultura</h1>
         </div>
         <!-- NAVEGACIÓN -->
@@ -23,12 +21,16 @@
             </ul>
         </nav>
     </header>
+         <div id="logo">
+            <img src="https://www.advantour.com/img/japan/images/index.jpg" alt="logo japón">
     <!-- CONTENIDO PRINCIPAL -->
     <main>
         <!-- SECCIÓN -->
         <section>
             <h2>Tradición y Modernidad</h2>
             <article>
+                  <div id="logo">
+            <img src="https://sal-pimienta.com/wp-content/uploads/2024/06/Pagoda-en-el-Templo-Senso-ji-1.jpg" alt="logo japón">
                 <p>
                     Japón es un país insular de Asia oriental donde conviven siglos de tradición 
                     con una de las sociedades más innovadoras del mundo.
@@ -65,6 +67,8 @@
         </ul>
     </aside>
     <!-- PIE DE PÁGINA -->
+              <div id="logo">
+            <img src="https://turismojapon.info/wp-content/uploads/2024/01/Flores-de-Cerezo-en-Japon.jpg" alt="logo japón">
     <footer>
         <h3>Contacto</h3>
         <p>Email: info@japon.com</p>
