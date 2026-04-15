@@ -1,3 +1,8 @@
+#logo {
+    border: 2px solid #c0392b;
+    padding: 10px;
+    border-radius: 10px;
+}
 h1 {
     color; rgb(55, 13, 27); 
     background-color:antiquewhite;
