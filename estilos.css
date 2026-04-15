@@ -1,13 +1,6 @@
 #logo {
-    border: 3px solid #c0392b;
-    padding: 15px;
-    width: fit-content;
-    margin: 20px auto;
-    border-radius: 10px;
-    background-color: white;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    border: 5px solid blue;
 }
-
 h1 {
     color: rgb(55, 13, 27); 
     background-color: antiquewhite;
