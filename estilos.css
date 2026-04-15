@@ -1,6 +1,7 @@
 #logo {
     border: 5px solid blue;
 }
+
 h1 {
     color: rgb(55, 13, 27); 
     background-color: antiquewhite;
@@ -27,4 +28,7 @@ nav ul {
 
 img { 
     border-radius: 20px;
+#tradicion, #regiones, #imagen-cerezo {
+    background-color: #fdf2e9;
+    height: 200px;
 }
