@@ -3,6 +3,7 @@
 /* Fondo de toda la página */
 body {
     font-family: "Montserrat", sans-serif;
+background-color: #ff4d4d;
 }
 
 /* Borde del logo */
@@ -12,6 +13,7 @@ body {
 
 h1 {
     color: rgb(55, 13, 27); 
+background-color: #ff4d4d;
 }
 
 a {
