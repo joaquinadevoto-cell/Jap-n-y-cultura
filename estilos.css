@@ -3,6 +3,9 @@
 /* Fondo de toda la pagina */
 body {
     background-image: url("../img/fondo1-index.jpg") ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
     font-family: "Roboto", sans-serif;
 background-color: #ff4d4d;
