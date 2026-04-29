@@ -10,6 +10,17 @@ body {
     font-family: "Roboto", sans-serif;
 background-color: #ff4d4d;
 } 
+.navbar {
+    display: flex;
+    justify-content: space-between; /* logo izquierda, menú derecha */
+    align-items: center;
+    background-color: #222;
+    padding: 10px 20px;
+}
+
+.logo {
+    width: 80px;
+}
 header { 
     display: flex;
     justify-content: center;
