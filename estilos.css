@@ -10,76 +10,107 @@
 /* BODY */
 body {
     font-family: "Roboto", sans-serif;
-}
-
-/* HEADER CON IMAGEN DE FONDO */
-.hero {
-    height: 100vh;
+    background-color: #f5f5f5;
     background-image: url("img/Fondo1-index.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    position: relative;
+    min-height: 100vh;
+}
+
+/* HEADER */
+#inicio {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+
+/* TITULO */
+h1 {
+    margin: 20px 0;
+    color: rgb(55, 13, 27);
 }
 
 /* NAVBAR */
 .navbar {
-    width: 90%;
+    width: 100%;
     max-width: 1200px;
-    padding: 18px 30px;
+    margin: 0 auto;
 
     display: flex;
     justify-content: space-between;
     align-items: center;
 
-    background-color: #d8d2bf;
-    border-radius: 25px;
-
-    position: absolute;
-    top: 20px;
-    left: 50%;
-    transform: translateX(-50%);
+    background-color: #d9d4c2;
+    padding: 15px 20px;
+    border-radius: 10px;
 }
 
 /* LOGO */
 .logo {
     height: 50px;
     width: auto;
+    object-fit: contain;
 }
 
-/* ICONOS */
-.menu-icon,
-.search-icon {
-    font-size: 35px;
-    color: red;
+/* MENU */
+.navbar nav ul {
+    display: flex;
+    gap: 25px;
+    list-style: none;
+}
+
+.navbar nav ul li a {
+    text-decoration: none;
+    color: rgb(223, 27, 25);
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.navbar nav ul li a:hover {
+    color: #ff4d4d;
+}
+
+/* MAIN */
+main {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 25px;
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 12px;
+}
+
+/* TEXTOS */
+p {
+    margin: 15px 0;
+    line-height: 1.6;
+}
+
+.destacado {
     font-weight: bold;
-    cursor: pointer;
 }
 
-/* TEXTO CENTRAL */
-.hero-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+/* IMAGENES */
+img {
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+/* ASIDE */
+aside {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 12px;
+}
+
+/* FOOTER */
+footer {
+    margin-top: 40px;
+    padding: 30px;
     text-align: center;
-}
-
-/* TITULO PRINCIPAL */
-.hero-text h1 {
-    font-size: 120px;
-    color: red;
-    font-weight: bold;
-    letter-spacing: 5px;
-}
-
-/* SUBTITULO */
-.hero-text h2 {
-    font-size: 50px;
-    color: red;
-    margin-top: -20px;
-}
-h2 {
-    text-transform: uppercase;
-    font-weight: bold;
+    background: #d9d4c2;
 }
