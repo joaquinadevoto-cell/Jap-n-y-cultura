@@ -20,6 +20,17 @@ body {
     padding: 0 20px;
 }
 
+@media (min-width: 1200px) {
+    body {
+        background-image: url("../img/fondo-desktop.jpg");
+        background-position: center center;
+    }
+
+    .texto-columnas {
+        column-count: 3;
+    }
+}
+
 /* HEADER */
 #inicio {
     width: 100%;
