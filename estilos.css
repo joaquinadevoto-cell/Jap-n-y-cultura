@@ -12,7 +12,7 @@ background-color: #ff4d4d;
 } 
 .navbar {
     display: flex;
-    justify-content: space-between; /* logo izquierda, menú derecha */
+    justify-content: space-between; 
     align-items: center;
     background-color: #222;
     padding: 10px 20px;
