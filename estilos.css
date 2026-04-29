@@ -66,3 +66,21 @@ nav ul {
 img { 
     border-radius: 20px;
 }
+
+/*footer*/
+.footer-contenido {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.col h3 {
+    margin-bottom: 15px;
+}
+
+.col p {
+    margin: 8px 0;
+    font-size: 14px;
+}
