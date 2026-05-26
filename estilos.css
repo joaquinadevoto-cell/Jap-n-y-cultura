@@ -64,6 +64,14 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+#menu-toggle {
+    background: none;
+    border: none;
+    font-size: 1.8rem;
+    color: var(--vinotinto);
+    cursor: pointer;
+    display: block;
+}
 
 nav ul {
   display: flex;
